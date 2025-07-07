@@ -4,8 +4,8 @@
       "checksum": "9ac732a551ffe3b057f521771f6a5a42c5bbb807"
     }
   },
-  "launcher_jar_url": "https://raw.githubusercontent.com/pleasannnt/launcher/main/Launcher.jar",
-  "launcher_jar_checksum": "e4a12d7f86bdc81374b7dbef83b51e27c23a55a2",
+  "launcher_jar_url": "https://raw.githubusercontent.com/pleasannnt/launcher/main/launcher.jar",
+  "launcher_jar_checksum": "0c83577f640eb277dfbfa5a2d0de0808a5043177",
   "assets_url": "https://www.dropbox.com/scl/fi/p9ahj72m8bndltwac7g2h/assets.zip?dl=1",
   "natives_url": "https://raw.githubusercontent.com/pleasannnt/launcher/main/natives.zip",
   "java": {
