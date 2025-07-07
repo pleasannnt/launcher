@@ -17,8 +17,8 @@
     "rt-x64": "14b11002ca8b6c317153ba22b23f15ac037a5a72"
   },
   "client": {
-    "url": "https://raw.githubusercontent.com/pleasannnt/launcher/main/vers1.8.9-Optifine-Ultra.jar",
-    "sha1": "b1bbda7884c980eeab75b27c73d5e81565f561c2"
+   "url": "https://raw.githubusercontent.com/pleasannnt/launcher/main/vers/1.8.9-Optifine-Ultra.jar",
+   "sha1": "b1bbda7884c980eeab75b27c73d5e81565f561c2"
   },
   "launcher_args": "-Xms%initRAM%m -Xmx%maxRAM%m %runArgs%"
 }
