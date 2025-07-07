@@ -1,24 +1,22 @@
 {
+  "versionControl": {
+    "checksum": "ae030902ee51cf63bce3197aac1e2905c6742599"
+  },
   "launcher_jar_url": "https://raw.githubusercontent.com/pleasannnt/launcher/main/launcher.jar",
   "launcher_jar_checksum": "e4a12d7f86bdc81374b7dbef83b51e27c23a55a2",
-
   "assets_url": "https://raw.githubusercontent.com/pleasannnt/launcher/main/assets.zip",
   "natives_url": "https://raw.githubusercontent.com/pleasannnt/launcher/main/natives.zip",
-
   "java": {
     "url": "https://raw.githubusercontent.com/pleasannnt/launcher/main/java.zip",
     "sha1": "920752e4c22e1165e6df27f69599483187edfbb3",
     "sha1-x32": "e69bffb8015f7f6d2593a357141a153208de53a0"
   },
-
   "javaIntegrity": {
     "rt-x64": "14b11002ca8b6c317153ba22b23f15ac037a5a72"
   },
-
   "client": {
     "url": "https://raw.githubusercontent.com/pleasannnt/launcher/main/vers/1.8.9-Optifine-Ultra_.jar",
     "sha1": "b1bbda7884c980eeab75b27c73d5e81565f561c2"
   },
-
   "launcher_args": "-Xms%initRAM%m -Xmx%maxRAM%m %runArgs%"
 }
