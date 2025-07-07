@@ -5,7 +5,7 @@
     }
   },
   "launcher_jar_url": "https://raw.githubusercontent.com/pleasannnt/launcher/main/launcher.jar",
-  "launcher_jar_checksum": "B30E425AEDF0ACA3939ED784FF96E7C2FDC772C8",
+  "launcher_jar_checksum": "0c83577f640eb277dfbfa5a2d0de0808a5043177",
   "assets_url": "https://www.dropbox.com/scl/fi/p9ahj72m8bndltwac7g2h/assets.zip?dl=1",
   "natives_url": "https://raw.githubusercontent.com/pleasannnt/launcher/main/natives.zip",
   "java": {
