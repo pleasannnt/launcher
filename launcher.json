@@ -1,8 +1,8 @@
 {
-"versionControl": {
-  "windows": {
-    "checksum": "ae030902ee51cf63bce3197aac1e2905c6742599"
-  }
+  "versionControl": {
+    "windows": {
+      "checksum": "ae030902ee51cf63bce3197aac1e2905c6742599"
+    }
   },
   "launcher_jar_url": "https://raw.githubusercontent.com/pleasannnt/launcher/main/launcher.jar",
   "launcher_jar_checksum": "e4a12d7f86bdc81374b7dbef83b51e27c23a55a2",
